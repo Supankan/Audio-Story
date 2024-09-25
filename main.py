@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import requests
 from dotenv import find_dotenv, load_dotenv
 import streamlit as st
@@ -117,7 +116,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-=======
 import requests
 from dotenv import find_dotenv, load_dotenv
 import streamlit as st
@@ -232,4 +230,3 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> 98a24151ace2df7fc0545f75f9fe152e16499e62
